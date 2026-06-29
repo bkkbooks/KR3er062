@@ -1,0 +1,3271 @@
+canonical_identifier: bkk:krp/KR3er062/v1
+canonical_location: https://kanripo.org/bkk/KR3er062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蘭室秘藏
+  identifiers:
+    krp: KR3er062
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er062.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3er062_001.yaml, hash: 'sha256:96a81d2854c0dfe4425aca969a6c1babcd34f0e4d10509a1f09fae8f1068a9c4'}
+  - {seq: 2, filename: KR3er062_002.yaml, hash: 'sha256:893130c85af399ace8c7d6eb9f69215d9c1e0c476e53efd8a59fd04c84f2030c'}
+  - {seq: 3, filename: KR3er062_003.yaml, hash: 'sha256:c56d3194294ecaf397b96744c7ea3613e3f6d88950738b03720e4591552c5558'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er062_001.markers.yaml, hash: 'sha256:4787cc625795d555043dfa7fc594de496e5bca82c6cf008b64db4385fe7cae13'}
+  - {seq: 2, role: markers, filename: assets/KR3er062_002.markers.yaml, hash: 'sha256:7b4151cf5db8f37e7b2d7ac02a9487d4feeaa305958d029345716eed6c9e66c2'}
+  - {seq: 3, role: markers, filename: assets/KR3er062_003.markers.yaml, hash: 'sha256:9ad31ca6faac3031cbc4e2f9ee0f18de07ac04bd17b602838443bb46ee294c80'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 16549
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 4810
+  label: 飲食勞倦門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2d2
+    span:
+    - body
+    - 7
+    - 384
+  label: 飲食所傷論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2d3
+    span:
+    - body
+    - 384
+    - 2667
+  label: 勞倦所傷論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d4
+    span:
+    - body
+    - 776
+    - 1550
+  label: 調中益氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d5
+    span:
+    - body
+    - 1550
+    - 1667
+  label: 寬中喜食無厭丸一名寬中進食丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d6
+    span:
+    - body
+    - 1667
+    - 1870
+  label: 交泰丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d7
+    span:
+    - body
+    - 1870
+    - 1943
+  label: 木香人參生薑枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d8
+    span:
+    - body
+    - 1943
+    - 2007
+  label: 木香乾姜枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d9
+    span:
+    - body
+    - 2007
+    - 2099
+  label: 扶脾丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d10
+    span:
+    - body
+    - 2099
+    - 2152
+  label: 和中丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d11
+    span:
+    - body
+    - 2152
+    - 2204
+  label: 檳榔丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d12
+    span:
+    - body
+    - 2204
+    - 2276
+  label: 消積滯集香丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d13
+    span:
+    - body
+    - 2276
+    - 2351
+  label: 黃耆湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d14
+    span:
+    - body
+    - 2351
+    - 2397
+  label: 黃耆當歸湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d15
+    span:
+    - body
+    - 2397
+    - 2585
+  label: 參朮湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d3d16
+    span:
+    - body
+    - 2585
+    - 2667
+  label: 益胃散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2d4
+    span:
+    - body
+    - 2667
+    - 4810
+  label: 脾胃虛損論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d4d4
+    span:
+    - body
+    - 4414
+    - 4504
+  label: 三黃枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d4d5
+    span:
+    - body
+    - 4504
+    - 4613
+  label: 巴豆三稜丸一名木香見現丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d4d6
+    span:
+    - body
+    - 4613
+    - 4702
+  label: 白朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d2.d4d7
+    span:
+    - body
+    - 4702
+    - 4810
+  label: 草豆蔻丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d3
+    span:
+    - body
+    - 4810
+    - 6416
+  label: 中滿腹脹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3d2
+    span:
+    - body
+    - 4815
+    - 5222
+  label: 中滿腹脹論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3d3
+    span:
+    - body
+    - 5222
+    - 6416
+  label: 諸腹脹大皆屬於熱論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d6
+    span:
+    - body
+    - 5661
+    - 5808
+  label: 中滿分消丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d7
+    span:
+    - body
+    - 5808
+    - 5949
+  label: 中滿分消湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d8
+    span:
+    - body
+    - 5949
+    - 6099
+  label: 廣朮潰堅湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d9
+    span:
+    - body
+    - 6099
+    - 6234
+  label: 半夏厚朴湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d10
+    span:
+    - body
+    - 6234
+    - 6317
+  label: 破滯氣湯一名木香化滯散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d3.d3d11
+    span:
+    - body
+    - 6317
+    - 6416
+  label: 草豆蔻湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d4
+    span:
+    - body
+    - 6416
+    - 6921
+  label: 心腹痞悶門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d4d2
+    span:
+    - body
+    - 6421
+    - 6921
+  label: 消痞悶方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d4.d2d8
+    span:
+    - body
+    - 6531
+    - 6624
+  label: 失笑丸一名枳實消痞丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d4.d2d9
+    span:
+    - body
+    - 6624
+    - 6715
+  label: 黃連消痞丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d4.d2d10
+    span:
+    - body
+    - 6715
+    - 6812
+  label: 消痞湯一名木香化滯湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d4.d2d11
+    span:
+    - body
+    - 6812
+    - 6921
+  label: 葶藶丸一名人參順氣飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d5
+    span:
+    - body
+    - 6921
+    - 9570
+  label: 胃脘痛門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5d2
+    span:
+    - body
+    - 6925
+    - 7337
+  label: 草豆蔻丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5d3
+    span:
+    - body
+    - 7337
+    - 7869
+  label: 神聖復氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5d4
+    span:
+    - body
+    - 7869
+    - 7994
+  label: 麻黃豆蔻丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5d5
+    span:
+    - body
+    - 7994
+    - 9570
+  label: 酒客病論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d4
+    span:
+    - body
+    - 8209
+    - 8339
+  label: 葛花解酲湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d5
+    span:
+    - body
+    - 8339
+    - 8399
+  label: 枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d6
+    span:
+    - body
+    - 8399
+    - 8465
+  label: 半夏枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d7
+    span:
+    - body
+    - 8465
+    - 8536
+  label: 橘皮枳朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d8
+    span:
+    - body
+    - 8536
+    - 8617
+  label: 除濕益氣丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d9
+    span:
+    - body
+    - 8617
+    - 8689
+  label: 除濕散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d10
+    span:
+    - body
+    - 8689
+    - 8778
+  label: 升麻黃連丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d11
+    span:
+    - body
+    - 8778
+    - 8928
+  label: 上二黃丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d5.d5d12
+    span:
+    - body
+    - 8928
+    - 9570
+  label: 瓜蒂散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d6
+    span:
+    - body
+    - 9570
+    - 11131
+  label: 消渴門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6d2
+    span:
+    - body
+    - 9573
+    - 11131
+  label: 消渴論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d4
+    span:
+    - body
+    - 10181
+    - 10322
+  label: 和血益氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d5
+    span:
+    - body
+    - 10322
+    - 10450
+  label: 當歸潤燥湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d6
+    span:
+    - body
+    - 10450
+    - 10569
+  label: 生津甘露湯一名清涼飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d7
+    span:
+    - body
+    - 10569
+    - 10688
+  label: 辛潤緩肌湯一名清神補氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d8
+    span:
+    - body
+    - 10688
+    - 10812
+  label: 甘草石膏湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d9
+    span:
+    - body
+    - 10812
+    - 10927
+  label: 甘露膏一名蘭香飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d6.d2d10
+    span:
+    - body
+    - 10927
+    - 11131
+  label: 生津甘露飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2d7
+    span:
+    - body
+    - 11131
+    - 16549
+  label: 眼耳鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7d2
+    span:
+    - body
+    - 11135
+    - 11615
+  label: 諸脈者皆屬於目論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7d3
+    span:
+    - body
+    - 11615
+    - 16549
+  label: 內障眼論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d4
+    span:
+    - body
+    - 12000
+    - 12067
+  label: 芎辛湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d5
+    span:
+    - body
+    - 12067
+    - 12233
+  label: 碧天丸一名井珠丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d6
+    span:
+    - body
+    - 12233
+    - 12358
+  label: 廣大重明湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d7
+    span:
+    - body
+    - 12358
+    - 12501
+  label: 百點膏
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d8
+    span:
+    - body
+    - 12501
+    - 12785
+  label: 選奇湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d9
+    span:
+    - body
+    - 12785
+    - 12920
+  label: 明目細辛湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d10
+    span:
+    - body
+    - 12920
+    - 13001
+  label: 復明散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d11
+    span:
+    - body
+    - 13001
+    - 13084
+  label: 助陽和血湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d12
+    span:
+    - body
+    - 13084
+    - 13241
+  label: 吹雲膏
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d13
+    span:
+    - body
+    - 13241
+    - 13304
+  label: 防風飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d14
+    span:
+    - body
+    - 13304
+    - 13481
+  label: 撥雲湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d15
+    span:
+    - body
+    - 13481
+    - 13691
+  label: 神效黃耆湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d16
+    span:
+    - body
+    - 13691
+    - 13836
+  label: 圓明內障升麻湯一名沖和養胃湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d17
+    span:
+    - body
+    - 13836
+    - 13887
+  label: 黃芩黃連湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d18
+    span:
+    - body
+    - 13887
+    - 13965
+  label: 蔓荊子湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d19
+    span:
+    - body
+    - 13965
+    - 14060
+  label: 歸葵湯一名連翹飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d20
+    span:
+    - body
+    - 14060
+    - 14196
+  label: 救苦湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d21
+    span:
+    - body
+    - 14196
+    - 14452
+  label: 熟乾地黃丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d22
+    span:
+    - body
+    - 14452
+    - 14536
+  label: 益陰腎氣丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d23
+    span:
+    - body
+    - 14536
+    - 14713
+  label: 羌活退翳丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d24
+    span:
+    - body
+    - 14713
+    - 14802
+  label: 當歸龍膽湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d25
+    span:
+    - body
+    - 14802
+    - 15098
+  label: 補陽湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d26
+    span:
+    - body
+    - 15098
+    - 15190
+  label: 瀉陰火丸一名連柏益陰丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d27
+    span:
+    - body
+    - 15190
+    - 15346
+  label: 升陽柴胡湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d28
+    span:
+    - body
+    - 15346
+    - 15441
+  label: 溫衛湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d29
+    span:
+    - body
+    - 15441
+    - 15552
+  label: 圓明膏
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d30
+    span:
+    - body
+    - 15552
+    - 15598
+  label: 㗜藥麻黃散
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d31
+    span:
+    - body
+    - 15598
+    - 15646
+  label: 療本滋腎丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d32
+    span:
+    - body
+    - 15646
+    - 15723
+  label: 加味滋腎丸
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d33
+    span:
+    - body
+    - 15723
+    - 15818
+  label: 退翳膏
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d34
+    span:
+    - body
+    - 15818
+    - 15889
+  label: 龍膽飲子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d35
+    span:
+    - body
+    - 15889
+    - 15981
+  label: 柴胡聰耳湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d36
+    span:
+    - body
+    - 15981
+    - 16100
+  label: 羌活退翳湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d37
+    span:
+    - body
+    - 16100
+    - 16309
+  label: 遠睛紫金丹
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d38
+    span:
+    - body
+    - 16309
+    - 16402
+  label: 麗澤通氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d39
+    span:
+    - body
+    - 16402
+    - 16466
+  label: 溫肺湯
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3er062_jc_001-d2.d7.d3d40
+    span:
+    - body
+    - 16466
+    - 16549
+  label: 禦寒湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 13458
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 2076
+  label: 頭痛門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2d2
+    span:
+    - body
+    - 5
+    - 2076
+  label: 頭痛論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d4
+    span:
+    - body
+    - 671
+    - 860
+  label: 青空膏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d5
+    span:
+    - body
+    - 860
+    - 906
+  label: 徹清膏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d6
+    span:
+    - body
+    - 906
+    - 980
+  label: 川芎散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d7
+    span:
+    - body
+    - 980
+    - 1023
+  label: 白芷散一名鬱金散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d8
+    span:
+    - body
+    - 1023
+    - 1080
+  label: 碧雲散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d9
+    span:
+    - body
+    - 1080
+    - 1123
+  label: 羌活清空膏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d10
+    span:
+    - body
+    - 1123
+    - 1296
+  label: 清上瀉火湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d11
+    span:
+    - body
+    - 1296
+    - 1352
+  label: 補氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d12
+    span:
+    - body
+    - 1352
+    - 1421
+  label: 細辛散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d13
+    span:
+    - body
+    - 1421
+    - 1509
+  label: 羌活湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d14
+    span:
+    - body
+    - 1509
+    - 1607
+  label: 養神湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d15
+    span:
+    - body
+    - 1607
+    - 1697
+  label: 安神湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d2.d2d16
+    span:
+    - body
+    - 1697
+    - 2076
+  label: 半夏白朮天麻湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d3
+    span:
+    - body
+    - 2076
+    - 4023
+  label: 口齒咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3d2
+    span:
+    - body
+    - 2081
+    - 4023
+  label: 口齒論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d4
+    span:
+    - body
+    - 2354
+    - 2456
+  label: 羌活散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d5
+    span:
+    - body
+    - 2456
+    - 2519
+  label: 草豆蔻散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d6
+    span:
+    - body
+    - 2519
+    - 2704
+  label: 麻黃散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d7
+    span:
+    - body
+    - 2704
+    - 2799
+  label: 治蟲散一名白芷散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d8
+    span:
+    - body
+    - 2799
+    - 2868
+  label: 益智木律散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d9
+    span:
+    - body
+    - 2868
+    - 2941
+  label: 蠍梢散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d10
+    span:
+    - body
+    - 2941
+    - 2981
+  label: 白牙散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d11
+    span:
+    - body
+    - 2981
+    - 3056
+  label: 刷牙藥
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d12
+    span:
+    - body
+    - 3056
+    - 3106
+  label: 獨聖散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d13
+    span:
+    - body
+    - 3106
+    - 3159
+  label: 當歸龍膽散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d14
+    span:
+    - body
+    - 3159
+    - 3242
+  label: 牢牙地黃散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d15
+    span:
+    - body
+    - 3242
+    - 3316
+  label: 細辛散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d16
+    span:
+    - body
+    - 3316
+    - 3467
+  label: 立效散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d17
+    span:
+    - body
+    - 3467
+    - 3541
+  label: 牢牙散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d18
+    span:
+    - body
+    - 3541
+    - 3651
+  label: 清胃散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d19
+    span:
+    - body
+    - 3651
+    - 3814
+  label: 神功丸
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d20
+    span:
+    - body
+    - 3814
+    - 3920
+  label: 桔梗湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d3.d2d21
+    span:
+    - body
+    - 3920
+    - 4023
+  label: 神驗法
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d4
+    span:
+    - body
+    - 4023
+    - 4441
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d4d2
+    span:
+    - body
+    - 4026
+    - 4109
+  label: 丁香茱萸湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d4d3
+    span:
+    - body
+    - 4109
+    - 4202
+  label: 白朮湯一名茯苓半夏湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d4d4
+    span:
+    - body
+    - 4202
+    - 4321
+  label: 補肝湯一名柴胡半夏湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d4d5
+    span:
+    - body
+    - 4321
+    - 4441
+  label: 吳茱萸丸一名木香利膈丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d5
+    span:
+    - body
+    - 4441
+    - 5239
+  label: 衄血吐血門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d2
+    span:
+    - body
+    - 4446
+    - 4513
+  label: 麥門冬飲子
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d3
+    span:
+    - body
+    - 4513
+    - 4734
+  label: 人參飲子
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d4
+    span:
+    - body
+    - 4734
+    - 4882
+  label: 三黃補血湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d5
+    span:
+    - body
+    - 4882
+    - 4952
+  label: 救脈湯一名人參救肺散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d6
+    span:
+    - body
+    - 4952
+    - 5070
+  label: 麻黃桂枝湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d7
+    span:
+    - body
+    - 5070
+    - 5183
+  label: 黃耆芍藥湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d5d8
+    span:
+    - body
+    - 5183
+    - 5239
+  label: 止衄血法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d6
+    span:
+    - body
+    - 5239
+    - 6425
+  label: 腰痛門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d2
+    span:
+    - body
+    - 5242
+    - 5434
+  label: 川芎肉桂湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d3
+    span:
+    - body
+    - 5434
+    - 5516
+  label: 獨活湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d4
+    span:
+    - body
+    - 5516
+    - 5639
+  label: 破血散疼湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d5
+    span:
+    - body
+    - 5639
+    - 5737
+  label: 地龍散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d6
+    span:
+    - body
+    - 5737
+    - 5807
+  label: 蒼朮湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d7
+    span:
+    - body
+    - 5807
+    - 6005
+  label: 麻黃復煎散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d8
+    span:
+    - body
+    - 6005
+    - 6130
+  label: 緩筋湯一名羌活湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d9
+    span:
+    - body
+    - 6130
+    - 6229
+  label: 拈痛湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d10
+    span:
+    - body
+    - 6229
+    - 6336
+  label: 蒼朮復煎散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d6d11
+    span:
+    - body
+    - 6336
+    - 6425
+  label: 羌活蒼朮湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3d7
+    span:
+    - body
+    - 6425
+    - 13458
+  label: 婦人門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7d2
+    span:
+    - body
+    - 6428
+    - 6716
+  label: 經閉不行有三論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7d3
+    span:
+    - body
+    - 6716
+    - 10490
+  label: 經漏不止有二論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d4
+    span:
+    - body
+    - 7056
+    - 7506
+  label: 升陽除濕湯一名調經升麻除濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d5
+    span:
+    - body
+    - 7506
+    - 7741
+  label: 涼血地黃湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d6
+    span:
+    - body
+    - 7741
+    - 8078
+  label: 酒煮當歸丸
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d7
+    span:
+    - body
+    - 8078
+    - 8451
+  label: 固真丸
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d8
+    span:
+    - body
+    - 8451
+    - 8497
+  label: 烏藥湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d9
+    span:
+    - body
+    - 8497
+    - 8593
+  label: 助陽湯一名升陽燥濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d10
+    span:
+    - body
+    - 8593
+    - 8748
+  label: 水府丹
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d11
+    span:
+    - body
+    - 8748
+    - 8918
+  label: 丁香膠艾湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d12
+    span:
+    - body
+    - 8918
+    - 9279
+  label: 黃耆當歸人參湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d13
+    span:
+    - body
+    - 9279
+    - 9477
+  label: 當歸芍藥湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d14
+    span:
+    - body
+    - 9477
+    - 10109
+  label: 柴胡調經湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d15
+    span:
+    - body
+    - 10109
+    - 10280
+  label: 益胃升陽湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d3d16
+    span:
+    - body
+    - 10280
+    - 10490
+  label: 升陽舉經湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7d4
+    span:
+    - body
+    - 10490
+    - 13458
+  label: 半產誤用寒涼之藥論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d4
+    span:
+    - body
+    - 10840
+    - 10945
+  label: 全生活血湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d5
+    span:
+    - body
+    - 10945
+    - 11031
+  label: 當歸附子湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d6
+    span:
+    - body
+    - 11031
+    - 11194
+  label: 調經補真湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d7
+    span:
+    - body
+    - 11194
+    - 11283
+  label: 坐藥龍鹽膏
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d8
+    span:
+    - body
+    - 11283
+    - 11359
+  label: 勝陰丹
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d9
+    span:
+    - body
+    - 11359
+    - 11445
+  label: 回陽丹
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d10
+    span:
+    - body
+    - 11445
+    - 11523
+  label: 柴胡丁香湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d11
+    span:
+    - body
+    - 11523
+    - 11591
+  label: 延胡苦楝湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d12
+    span:
+    - body
+    - 11591
+    - 11707
+  label: 桂附湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d13
+    span:
+    - body
+    - 11707
+    - 11812
+  label: 人參補氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d14
+    span:
+    - body
+    - 11812
+    - 11939
+  label: 黃耆白朮湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d15
+    span:
+    - body
+    - 11939
+    - 12018
+  label: 白朮茯苓湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d16
+    span:
+    - body
+    - 12018
+    - 12078
+  label: 增味四物湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d17
+    span:
+    - body
+    - 12078
+    - 12333
+  label: 補經固真湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d18
+    span:
+    - body
+    - 12333
+    - 12502
+  label: 溫衛補血湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d19
+    span:
+    - body
+    - 12502
+    - 12581
+  label: 立效散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d20
+    span:
+    - body
+    - 12581
+    - 12622
+  label: 四聖散
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d21
+    span:
+    - body
+    - 12622
+    - 12827
+  label: 溫經除濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d22
+    span:
+    - body
+    - 12827
+    - 13330
+  label: 補氣升陽和中湯
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3er062_jc_002-d3.d7.d4d23
+    span:
+    - body
+    - 13330
+    - 13458
+  label: 麻黃桂枝升麻湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16175
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1510
+  label: 大便結燥門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2d2
+    span:
+    - body
+    - 7
+    - 1510
+  label: 大便結燥論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d4
+    span:
+    - body
+    - 335
+    - 426
+  label: 通幽湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d5
+    span:
+    - body
+    - 426
+    - 501
+  label: 潤燥湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d6
+    span:
+    - body
+    - 501
+    - 863
+  label: 潤腸丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d7
+    span:
+    - body
+    - 863
+    - 1223
+  label: 麻黃白朮湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d8
+    span:
+    - body
+    - 1223
+    - 1308
+  label: 升陽湯一名升陽瀉濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d9
+    span:
+    - body
+    - 1308
+    - 1453
+  label: 活血潤燥丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d2.d2d10
+    span:
+    - body
+    - 1453
+    - 1510
+  label: 潤腸湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d3
+    span:
+    - body
+    - 1510
+    - 2408
+  label: 小便淋閉門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d3d2
+    span:
+    - body
+    - 1515
+    - 2408
+  label: 小便淋閉論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d3.d2d4
+    span:
+    - body
+    - 2020
+    - 2115
+  label: 通關丸一名滋腎丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d3.d2d5
+    span:
+    - body
+    - 2115
+    - 2211
+  label: 清肺飲子
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d3.d2d6
+    span:
+    - body
+    - 2211
+    - 2292
+  label: 導氣除燥湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d3.d2d7
+    span:
+    - body
+    - 2292
+    - 2408
+  label: 腎疸湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d4
+    span:
+    - body
+    - 2408
+    - 3888
+  label: 痔漏門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4d2
+    span:
+    - body
+    - 2411
+    - 3888
+  label: 痔漏論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d4
+    span:
+    - body
+    - 2767
+    - 2913
+  label: 秦艽白朮丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d5
+    span:
+    - body
+    - 2913
+    - 3289
+  label: 秦艽蒼朮湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d6
+    span:
+    - body
+    - 3289
+    - 3419
+  label: 七聖丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d7
+    span:
+    - body
+    - 3419
+    - 3536
+  label: 秦艽防風湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d8
+    span:
+    - body
+    - 3536
+    - 3623
+  label: 秦艽羌活湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d9
+    span:
+    - body
+    - 3623
+    - 3720
+  label: 當歸郁李仁湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d10
+    span:
+    - body
+    - 3720
+    - 3819
+  label: 紅花桃仁湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d4.d2d11
+    span:
+    - body
+    - 3819
+    - 3888
+  label: 秦艽當歸湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d5
+    span:
+    - body
+    - 3888
+    - 4863
+  label: 陰痿陰汗門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5d2
+    span:
+    - body
+    - 3893
+    - 4863
+  label: 陰痿陰汗及臊臭論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d4
+    span:
+    - body
+    - 4048
+    - 4197
+  label: 龍膽瀉肝湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d5
+    span:
+    - body
+    - 4197
+    - 4292
+  label: 清震湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d6
+    span:
+    - body
+    - 4292
+    - 4391
+  label: 固真湯一名正元湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d7
+    span:
+    - body
+    - 4391
+    - 4498
+  label: 清魂湯一名柴胡勝濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d8
+    span:
+    - body
+    - 4498
+    - 4569
+  label: 椒粉散
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d9
+    span:
+    - body
+    - 4569
+    - 4668
+  label: 補肝湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d10
+    span:
+    - body
+    - 4668
+    - 4747
+  label: 溫腎湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d5.d2d11
+    span:
+    - body
+    - 4747
+    - 4863
+  label: 延胡丁香丸一名丁香疝氣丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d6
+    span:
+    - body
+    - 4863
+    - 6145
+  label: 瀉痢門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d2
+    span:
+    - body
+    - 4866
+    - 5064
+  label: 訶子皮散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d3
+    span:
+    - body
+    - 5064
+    - 5196
+  label: 升麻補胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d4
+    span:
+    - body
+    - 5196
+    - 5331
+  label: 升陽去熱和血湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d5
+    span:
+    - body
+    - 5331
+    - 5440
+  label: 益智和中湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d6
+    span:
+    - body
+    - 5440
+    - 5508
+  label: 芍藥柏皮丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d7
+    span:
+    - body
+    - 5508
+    - 5617
+  label: 和中益胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d8
+    span:
+    - body
+    - 5617
+    - 5679
+  label: 槐花散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d9
+    span:
+    - body
+    - 5679
+    - 5792
+  label: 茯苓湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d10
+    span:
+    - body
+    - 5792
+    - 5868
+  label: 黃耆補胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d11
+    span:
+    - body
+    - 5868
+    - 5962
+  label: 升陽除濕湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d12
+    span:
+    - body
+    - 5962
+    - 6069
+  label: 人參益胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d6d13
+    span:
+    - body
+    - 6069
+    - 6145
+  label: 升麻補胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d7
+    span:
+    - body
+    - 6145
+    - 9343
+  label: 瘡瘍門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d2
+    span:
+    - body
+    - 6148
+    - 6399
+  label: 散腫潰堅湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d3
+    span:
+    - body
+    - 6399
+    - 6624
+  label: 升陽調經湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d4
+    span:
+    - body
+    - 6624
+    - 6822
+  label: 連翹散堅湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d5
+    span:
+    - body
+    - 6822
+    - 6862
+  label: 龍泉散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d6
+    span:
+    - body
+    - 6862
+    - 7869
+  label: 救苦化堅湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d7
+    span:
+    - body
+    - 7869
+    - 7953
+  label: 柴胡連翹湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d8
+    span:
+    - body
+    - 7953
+    - 8047
+  label: 黍黏子湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d9
+    span:
+    - body
+    - 8047
+    - 8143
+  label: 淨液湯一名連翹防風湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d10
+    span:
+    - body
+    - 8143
+    - 8218
+  label: 消腫湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d11
+    span:
+    - body
+    - 8218
+    - 8329
+  label: 內托羌活湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d12
+    span:
+    - body
+    - 8329
+    - 8421
+  label: 升麻托裡湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d13
+    span:
+    - body
+    - 8421
+    - 8570
+  label: 內托黃耆湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d14
+    span:
+    - body
+    - 8570
+    - 8653
+  label: 柴胡通經湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d15
+    span:
+    - body
+    - 8653
+    - 8905
+  label: 白芷升麻湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d16
+    span:
+    - body
+    - 8905
+    - 8968
+  label: 保生救苦散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d17
+    span:
+    - body
+    - 8968
+    - 9123
+  label: 一上散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d18
+    span:
+    - body
+    - 9123
+    - 9198
+  label: 聖愈湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d19
+    span:
+    - body
+    - 9198
+    - 9231
+  label: 獨聖散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d7d20
+    span:
+    - body
+    - 9231
+    - 9343
+  label: 黃耆肉桂柴胡酒煎湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d8
+    span:
+    - body
+    - 9343
+    - 10707
+  label: 雜病門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d2
+    span:
+    - body
+    - 9346
+    - 9536
+  label: 安神丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d3
+    span:
+    - body
+    - 9536
+    - 9602
+  label: 硃砂安神丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d4
+    span:
+    - body
+    - 9602
+    - 9661
+  label: 補氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d5
+    span:
+    - body
+    - 9661
+    - 9773
+  label: 當歸補血湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d6
+    span:
+    - body
+    - 9773
+    - 9905
+  label: 柴胡升麻湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d7
+    span:
+    - body
+    - 9905
+    - 9997
+  label: 火鬱湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d8
+    span:
+    - body
+    - 9997
+    - 10071
+  label: 小黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d9
+    span:
+    - body
+    - 10071
+    - 10148
+  label: 黃芩利膈丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d10
+    span:
+    - body
+    - 10148
+    - 10246
+  label: 補益腎肝丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d11
+    span:
+    - body
+    - 10246
+    - 10271
+  label: 太陽經嚏藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d12
+    span:
+    - body
+    - 10271
+    - 10370
+  label: 麻黃茱萸湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d13
+    span:
+    - body
+    - 10370
+    - 10453
+  label: 黃耆湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d14
+    span:
+    - body
+    - 10453
+    - 10567
+  label: 除濕補氣湯一名清神補氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d15
+    span:
+    - body
+    - 10567
+    - 10643
+  label: 參歸湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d8d16
+    span:
+    - body
+    - 10643
+    - 10707
+  label: 升陽湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d9
+    span:
+    - body
+    - 10707
+    - 13472
+  label: 自汗門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9d2
+    span:
+    - body
+    - 10710
+    - 13472
+  label: 自汗論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d4
+    span:
+    - body
+    - 10908
+    - 11023
+  label: 周衛湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d5
+    span:
+    - body
+    - 11023
+    - 11190
+  label: 清燥湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d6
+    span:
+    - body
+    - 11190
+    - 11247
+  label: 當歸六黃湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d7
+    span:
+    - body
+    - 11247
+    - 11293
+  label: 紅豆散
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d8
+    span:
+    - body
+    - 11293
+    - 11623
+  label: 活血通經湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d9
+    span:
+    - body
+    - 11623
+    - 11814
+  label: 瀉榮湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d10
+    span:
+    - body
+    - 11814
+    - 11901
+  label: 人參益氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d11
+    span:
+    - body
+    - 11901
+    - 11972
+  label: 導氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d12
+    span:
+    - body
+    - 11972
+    - 12077
+  label: 補中湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d13
+    span:
+    - body
+    - 12077
+    - 12205
+  label: 麻黃分術湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d14
+    span:
+    - body
+    - 12205
+    - 12275
+  label: 上清湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d15
+    span:
+    - body
+    - 12275
+    - 12368
+  label: 術桂湯一名麻黃蒼朮湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d16
+    span:
+    - body
+    - 12368
+    - 12408
+  label: 正氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d17
+    span:
+    - body
+    - 12408
+    - 12469
+  label: 趁痛丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d18
+    span:
+    - body
+    - 12469
+    - 12565
+  label: 退熱湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d19
+    span:
+    - body
+    - 12565
+    - 12652
+  label: 解表升麻湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d20
+    span:
+    - body
+    - 12652
+    - 12769
+  label: 天麻黃耆湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d21
+    span:
+    - body
+    - 12769
+    - 12867
+  label: 健步丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d22
+    span:
+    - body
+    - 12867
+    - 12980
+  label: 白朮除濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d23
+    span:
+    - body
+    - 12980
+    - 13042
+  label: 加味四君子湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d24
+    span:
+    - body
+    - 13042
+    - 13233
+  label: 瀉血湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d25
+    span:
+    - body
+    - 13233
+    - 13334
+  label: 洗面藥
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d26
+    span:
+    - body
+    - 13334
+    - 13404
+  label: 瑩肌如玉散
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d9.d2d27
+    span:
+    - body
+    - 13404
+    - 13472
+  label: 面油摩風膏
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4d10
+    span:
+    - body
+    - 13472
+    - 16175
+  label: 小兒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10d2
+    span:
+    - body
+    - 13475
+    - 14829
+  label: 治驚論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d4
+    span:
+    - body
+    - 13716
+    - 14004
+  label: 黃耆湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d5
+    span:
+    - body
+    - 14004
+    - 14060
+  label: 益黃散
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d6
+    span:
+    - body
+    - 14060
+    - 14146
+  label: 升陽益血湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d7
+    span:
+    - body
+    - 14146
+    - 14237
+  label: 厚腸丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d8
+    span:
+    - body
+    - 14237
+    - 14384
+  label: 補陽湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d9
+    span:
+    - body
+    - 14384
+    - 14590
+  label: 大蕪荑湯一名梔子茯苓湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d10
+    span:
+    - body
+    - 14590
+    - 14690
+  label: 塌氣退黃湯一名茯苓滲濕湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d11
+    span:
+    - body
+    - 14690
+    - 14768
+  label: 中滿分消丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d2d12
+    span:
+    - body
+    - 14768
+    - 14829
+  label: 消痞丸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10d3
+    span:
+    - body
+    - 14829
+    - 16175
+  label: 癍疹論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d3d4
+    span:
+    - body
+    - 15372
+    - 15834
+  label: 消毒救苦散
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d3d5
+    span:
+    - body
+    - 15834
+    - 15974
+  label: 桔梗湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d3d6
+    span:
+    - body
+    - 15974
+    - 16065
+  label: 黍黏子湯
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3er062_jc_003-d4.d10.d3d7
+    span:
+    - body
+    - 16065
+    - 16175
+  label: 麻黃柴胡升麻湯
+  type: section
+  level: 4
+hash: sha256:739c4fc821dab57374f81d0ee9a50d8912ea082d78e149b36d01a845f1c8cb7c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
