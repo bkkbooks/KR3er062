@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er062/v1
 canonical_location: https://kanripo.org/bkk/KR3er062/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蘭室秘藏
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3er062_001.yaml, hash: 'sha256:784fff40ee21cff2c07a590d462d5a74fbbff9edf267155440e613a90a079fa6'}
-  - {seq: 2, filename: KR3er062_002.yaml, hash: 'sha256:e5c15fd1bb653aa562ed851b8be2ed06f8f3b58ca1323386eb90d29d4964e40b'}
-  - {seq: 3, filename: KR3er062_003.yaml, hash: 'sha256:ebdff124f72d8a4f8725cee39ed3eada5f06b65340523e95926f801fce4eda7d'}
+  - {seq: 1, filename: KR3er062_001.yaml, hash: 'sha256:37e61274f766d077b7bf4df863a4e9ed21b768d0de868bc49dfcc0bd4804d7c7'}
+  - {seq: 2, filename: KR3er062_002.yaml, hash: 'sha256:49e595665e0e406356d411d2c32a5f636790fa73093b75bf2259393f703ba639'}
+  - {seq: 3, filename: KR3er062_003.yaml, hash: 'sha256:03327a0aee6c8bdf6487c4551ff3da979ca526a992289fba34b94ce4a707fd2f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er062_001.markers.yaml, hash: 'sha256:f0eae75d6aa6b51570e5f9578a8bc40b66cd39b2189e2dd0c57fce37d30c1d20'}
-  - {seq: 2, role: markers, filename: assets/KR3er062_002.markers.yaml, hash: 'sha256:cfd852f117061bc287319b1516ffb59568d2ab2e728520ff664248195da59ea7'}
-  - {seq: 3, role: markers, filename: assets/KR3er062_003.markers.yaml, hash: 'sha256:91980b244b2fb2203411247a1f5f06ba7856200e9269e52fe5bfcab97b916f43'}
+  - {seq: 1, role: markers, filename: assets/KR3er062_001.markers.yaml, hash: 'sha256:024f5872803e5d128090522b5d237e53001a524dd8e2781456954194dc093834'}
+  - {seq: 2, role: markers, filename: assets/KR3er062_002.markers.yaml, hash: 'sha256:6473a4dd8b7a8a02af23bae91db6318b5fa376759ad3e1be34e59ab23c8b3e29'}
+  - {seq: 3, role: markers, filename: assets/KR3er062_003.markers.yaml, hash: 'sha256:21b6d4ac7f00fea6530e59fb8af39364f0453d80bce53c60b22ad6bbd03bbe2c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -3265,4 +3265,7 @@ table_of_contents:
   label: 麻黃柴胡升麻湯
   type: section
   level: 4
-hash: sha256:fe1aaf3537a1b7692eedc03d14a0529c40b062fd66d8bcf55d2b549dc562fea9
+hash: sha256:26d171e99959c8ecc81cef523088af28ce9c9b0c4819d23563f2ad899c817d3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
